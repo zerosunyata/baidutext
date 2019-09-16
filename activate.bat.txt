@@ -1,0 +1,9 @@
+slmgr.vbs /upk
+
+slmgr /ipk TFP9Y-VCY3P-VVH3T-8XXCC-MF4YK
+
+slmgr /skms kms.03k.org
+
+slmgr /ato
+
+MH37W-N47XK-V7XM9-C7227-GCQG9
